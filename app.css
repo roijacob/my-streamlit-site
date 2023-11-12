@@ -1,28 +1,7 @@
 <style>
 
-/* Global font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-html, body, [class*="css"] {
-    font-family: 'Poppins', sans-serif;
-}
-
-
-/* Header Color */
-[class="css-18ni7ap e13qjvis2"] {
-    background-color: #F5C7A9;
-}
-
-
-/* For the text found in column 1 */
-.css-keje6w.esravye1:nth-child(1) {
+.st-emotion-cache-1jlxiqx.e1f1d6gn1 {
     text-align: justify;
-}
-
-
-/* For the text found in column 2 */
-.css-keje6w.esravye1:nth-child(2) {
-    position: relative;
-    padding-left: 50px;
 }
 
 </style>
