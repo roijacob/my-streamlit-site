@@ -1,37 +1,42 @@
 <style>
 
-/* Font Specification */
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-body {
-    font-family: 'Poppins', sans-serif;
-}
-
-
 /* Header Color */
-header {
+.css-18ni7ap.e13qjvis2 {
     background-color: #F5C7A9;
 }
 
 
-/* For Column 1 */
-.st-emotion-cache-1wmy9hl.e1f1d6gn0 {
+/* Left column Specifications */
+body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) {
     text-align: justify;
 }
 
 
-/* For Column 2 */
-.st-emotion-cache-ocqkz7.e1f1d6gn4:nth-child(2) {
-    padding-left: 50px;
+/* Site disclaimer */
+body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+    background-color: #F5C7A9;
+    border-radius: 15px;
 }
 
 
-/* For my relevant information */
+/* Text Contents in site disclaimer */
+.css-5rimss.eqr7zpz4 {
+    margin: 10px;
+    color: black;
+}
+
+
+/* Right Column Specifications */
+body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) {
+    padding-left: 2rem;
+}
+
+
+/* For more information in the right column*/
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2),
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3),
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) {
-    background-color: black;
-    border-radius: 15px;
-    color: white;
+    padding-left: 2.5rem
 }
 
 </style>

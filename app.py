@@ -27,7 +27,5 @@ with col1:
 with col2:
     st.header('More Information:')
     st.write('[Download My Resume](https://drive.google.com/uc?export=download&id=1Q-3qAiin3SeBxAJaszXkJK1e0a7qHDe5)')
-    st.write('My projects')
-    st.write('My contact')
-
-
+    st.write('My projects (soon)')
+    st.write('My contact (soon)')
