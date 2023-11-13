@@ -1,0 +1,37 @@
+<style>
+
+/* Font Specification */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Header Color */
+header {
+    background-color: #F5C7A9;
+}
+
+
+/* For Column 1 */
+.st-emotion-cache-1wmy9hl.e1f1d6gn0 {
+    text-align: justify;
+}
+
+
+/* For Column 2 */
+.st-emotion-cache-ocqkz7.e1f1d6gn4:nth-child(2) {
+    padding-left: 50px;
+}
+
+
+/* For my relevant information */
+body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2),
+body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3),
+body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) {
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+}
+
+</style>
