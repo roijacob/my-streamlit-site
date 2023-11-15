@@ -1,0 +1,3 @@
+Using an official data from Washington, I developed a comprehensive visualization for analysis. This revealed several intriguing insights, such as the diverse original locations of vehicles in Washington, a noticeable increase in registered electric vehicles (EVs) beginning in 2011, and the fact that many plug-in hybrid electric vehicles are ineligible for the Clean Alternative Fuel Vehicle (CAFV) program due to their limited battery range.
+
+I mostly worked with a CSV file, and a little bit of Python to prepare this visualization.

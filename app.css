@@ -1,22 +1,19 @@
 <style>
 
 /* Header Color */
-.css-18ni7ap.e13qjvis2 {
+.st-emotion-cache-18ni7ap.ezrtsby2 {
     background-color: #F5C7A9;
 }
-
 
 /* Hide the sidebar */
 [data-testid="collapsedControl"] {
     display: none
 }
 
-
 /* Left column Specifications */
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) {
     text-align: justify;
 }
-
 
 /* Site disclaimer */
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
@@ -24,25 +21,42 @@ body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)
     border-radius: 15px;
 }
 
-
 /* Text Contents in site disclaimer */
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) {
     margin: 10px;
     color: black;
 }
 
-
 /* Right Column Specifications */
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) {
     padding-left: 2rem;
 }
-
 
 /* For more information in the right column*/
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2),
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3),
 body > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > section:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) {
     padding-left: 1.5rem
+}
+
+/* For Projects page */
+.main.st-emotion-cache-uf99v8.ea3mdgi5 {
+    text-align: justify;
+}
+
+/* Indentation for analytics tools */
+div[class='st-emotion-cache-5rimss e1nzilvr5'] ul {
+    padding-left: 2.5rem
+}
+
+/* Text customization for project headers */
+h3 a {
+    text-decoration: none;
+}
+
+h3 a:hover {
+    color: #000000;
+    text-decoration: none;
 }
 
 </style>
