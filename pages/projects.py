@@ -3,7 +3,10 @@ import streamlit.components.v1 as components
 
 def set_streamlit_config():
     """Set Streamlit page configuration."""
-    st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
+    st.set_page_config(layout="wide",
+                    page_icon="app_icon.png",
+                    page_title='Internship Proposal',
+                    initial_sidebar_state="collapsed")
 
 def read_file(file_path):
     """Read content from a file."""
