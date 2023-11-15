@@ -1,7 +1,9 @@
 import streamlit as st
 
 # Set streamlit page configurations
-st.set_page_config(layout="wide", 
+st.set_page_config(layout="wide",
+                   page_icon="app_icon.png",
+                   page_title='Internship Proposal',
                    initial_sidebar_state="collapsed")
 
 # Add Custom CSS to the streamlit page
