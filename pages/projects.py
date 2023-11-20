@@ -5,7 +5,7 @@ def set_streamlit_config():
     """Set Streamlit page configuration."""
     st.set_page_config(layout="wide",
                     page_icon="app_icon.png",
-                    page_title='Internship Proposal',
+                    page_title='Projects',
                     initial_sidebar_state="collapsed")
 
 def read_file(file_path):
@@ -58,3 +58,5 @@ display_project('[Demographics of Visual Studio Code Users :computer:](https://p
 
 display_project('[How :flag-ph: :bank: Could Improve their :apple: Application](https://public.tableau.com/views/TheCultofVisualStudioCode-2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)', 
                 projects['proj3'], phbanks_tableau_viz)
+
+st.link_button("Home", "https://streamlit-powered-apps-49142faef422.herokuapp.com/", type="primary")
