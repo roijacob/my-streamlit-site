@@ -56,7 +56,7 @@ display_project('[Vehicle Electrification of Washington :flag-us:](https://publi
 display_project('[Demographics of Visual Studio Code Users :computer:](https://public.tableau.com/views/TheCultofVisualStudioCode-2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)', 
                 projects['proj2'], vscode_tableau_viz)
 
-display_project('[How :flag-ph: :bank: Could Improve their :apple: Application](https://public.tableau.com/views/TheCultofVisualStudioCode-2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)', 
+display_project('[How :flag-ph: :bank: Could Improve their :apple: Application](https://public.tableau.com/views/HowPHBanksCouldImprove/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)', 
                 projects['proj3'], phbanks_tableau_viz)
 
 st.link_button("Home", "https://streamlit-powered-apps-49142faef422.herokuapp.com/", type="primary")
