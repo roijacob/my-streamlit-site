@@ -2,4 +2,4 @@ From the annual survey conducted by Stack Overflow, I have created a visualizati
 
 In this project, I chose to use a cloud-based PostgreSQL database to store data, even though it wasn't strictly necessary. I wrote SQL scripts to gather the information I needed, and surprisingly, I found this approach to be much more efficient than using entire CSV files in Tableau. By injecting SQL scripts into Tableau to fetch data, I significantly reduced friction in using Tableau later. It enabled me to effortlessly drag and drop elements within Tableau, bypassing the need to create specialized calculated fields. While Tableau's language for calculated fields is user-friendly and is comparable to Python, it's very specific to the platform and not transferable. In contrast, the SQL skills I developed are versatile and can be applied in various other contexts.
 
-You can view the SQL scripts that I have created here: [PostgreSQL Scripts - DOVSCU](https://gist.github.com/roijacob/bf309354063094a849934a2c74ed5300)
+You can view the SQL scripts that I have created here: **[PostgreSQL Scripts - DOVSCU](https://gist.github.com/roijacob/bf309354063094a849934a2c74ed5300)**
