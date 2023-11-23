@@ -1,14 +1,15 @@
-# My Streamlit Site
-My portfolio [website](https://streamlit-powered-apps-49142faef422.herokuapp.com/) hosted entirely on Heroku. 
+# My Streamlit Portfolio Site
 
-Contributions are always welcome; the site has a plenty of room for improvement. 
+Welcome to my portfolio site, creatively crafted and powered by Streamlit, and conveniently hosted on Heroku. This site showcases my projects and skills, serving as a live testament to my work. Check it out here: [Streamlit-Powered Portfolio](https://streamlit-powered-apps-49142faef422.herokuapp.com/).
 
-## Resources
-- [A quick tutorial on how to deploy your Streamlit app to Heroku.](https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd)
+![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)
+![Streamlit Version](https://img.shields.io/badge/streamlit-1.28.0-brightgreen.svg)
 
-## Tools
-- Visual Studio Code - IDE of Choice
-- SelectorsHub - For targeting CSS selectors
+**Contributions**: Your insights and contributions are highly valued! There's ample opportunity for enhancement and I warmly welcome any contributions that help refine and expand this project.
 
-Python: 3.11
-Streamlit Version: 1.28.0
+## Quick Start Guide
+- Want to build and deploy your own Streamlit app? Here's a handy tutorial: [Deploying Streamlit on Heroku](https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd).
+
+## Development Tools
+- **IDE**: Visual Studio Code – A versatile and powerful code editor.
+- **CSS Selectors**: SelectorsHub – An efficient tool for targeting CSS selectors.
