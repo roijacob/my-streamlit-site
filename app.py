@@ -8,7 +8,7 @@ st.set_page_config(layout="wide",
 
 # Add Custom CSS to the streamlit page
 try:
-    with open("app.css", "r") as f:
+    with open("css/app.css", "r") as f:
         page_bg_img = f.read()    
     st.markdown(page_bg_img, unsafe_allow_html=True)
 except FileNotFoundError:

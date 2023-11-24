@@ -32,7 +32,7 @@ def display_project(header, project_desc, tableau_viz):
 set_streamlit_config()
 
 # Add custom CSS
-custom_css = read_file("app.css")
+custom_css = read_file("./css/projects.css")
 st.markdown(custom_css, unsafe_allow_html=True)
 
 # Load project descriptions
