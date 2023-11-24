@@ -37,5 +37,12 @@ with col1:
 with col2:
     st.header('More Information:', divider='rainbow')
     st.link_button("Download My Resume", "https://drive.google.com/uc?export=download&id=15FttVlCRlPaoxG8vFBVzsp_aUStltZfY", type="primary")
+    st.link_button("Download My CV", "https://drive.google.com/uc?export=download&id=1u8CF3Y--JlP7OpXQv7g92CS5VdhsAtSQ", type="secondary")
     st.link_button("My Projects", "projects", type="secondary")
     st.link_button("LinkedIn", "https://www.linkedin.com/in/roi-jacob-olfindo-432402239", type="secondary")
+    st.link_button("GitHub", "https://github.com/roijacob", type="secondary")
+
+
+
+
+
