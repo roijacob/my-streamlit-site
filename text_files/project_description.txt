@@ -1,6 +1,6 @@
-A work in progress. In my free time this semester (since I am not as busy with my academics anymore), I plan to dedicate myself to building AI/ML projects, with the aim of enhancing my skills. I am also hopeful that my upcoming internship will provide an opportunity to further develop these skills in building machine learning projects and conveying data insights. 
+A work in progress. Also, I have a very basic knowledge in data engineering, that can be a bonus point for my primary skills below. I have created a simple DE project primarily in Airflow, you can view the repo [here](https://github.com/roijacob/simple-airflow).
 
-As of now, my primary area of expertise lies in analytics. I've dedicated my leisure time to developing a range of hobby projects, with a keen focus on creating insightful visualizations. This practical experience has not only enriched my skill set but also deepened my passion for data analysis. My hands-on work has involved extensive use of several key tools, including:
+As of now, my primary area of expertise lies in analytics. I've dedicated my leisure time to doing activities, with a keen focus on creating insightful visualizations. This practical experience has not only enriched my skill set but also deepened my passion for data analysis. My hands-on work has involved extensive use of several key tools, including:
 - Excel
 - Python 
 - Tableau

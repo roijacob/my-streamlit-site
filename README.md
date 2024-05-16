@@ -13,3 +13,25 @@ Welcome to my portfolio site, creatively crafted and powered by Streamlit, and c
 ## Development Tools
 - **IDE**: Visual Studio Code – A versatile and powerful code editor.
 - **CSS Selectors**: SelectorsHub – An efficient tool for targeting CSS selectors.
+
+## Running this app
+
+1. Create a virtual environment in this repository:
+   ```
+   python -m venv .venv
+   ```
+
+2. Activate the virtual environment:
+   - For Windows:
+     ```
+     .venv\Scripts\activate
+     ```
+   - For macOS and Linux:
+     ```
+     source .venv/bin/activate
+     ```
+
+3. Run the app using Streamlit:
+   ```
+   streamlit run app.py
+   ```
