@@ -3,7 +3,7 @@ import streamlit as st
 # Set streamlit page configurations
 st.set_page_config(layout="wide",
                    page_icon="app_icon.png",
-                   page_title='Internship Proposal',
+                   page_title='RJCO Personal Website',
                    initial_sidebar_state="collapsed")
 
 # Add Custom CSS to the streamlit page
@@ -36,9 +36,9 @@ with col1:
 # Column 2: Additional Information and Links
 with col2:
     st.header('More Information:', divider='rainbow')
-    st.link_button("Download My Resume", "https://drive.google.com/file/d/1Z5lurx9Xc4oKEIR7R5SZytXE4_hnbpoW/view?usp=sharing", type="primary")
+    st.link_button("Download My Resume", "https://drive.google.com/uc?export=download&id=1RswmoBm4dgLRaum023kWeqpxhBTubhE8", type="primary")
     # st.link_button("Download My CV", "https://drive.google.com/uc?export=download&id=1u8CF3Y--JlP7OpXQv7g92CS5VdhsAtSQ", type="secondary")
     st.link_button("Personal/Professional Blogs (Coming Soon)", "none", type="secondary")
     st.link_button("My Projects", "projects", type="secondary")
     st.link_button("LinkedIn", "https://www.linkedin.com/in/roi-jacob-olfindo-432402239", type="secondary")
-    st.link_button("GitHub", "https://github.com/roijacob", type="secondary")
+    st.link_button("GitHub", "https://github.com/roijacob/my-streamlit-site", type="secondary")    
